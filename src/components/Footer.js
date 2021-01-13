@@ -1,14 +1,11 @@
-import React from "react";
+import React from 'react';
 
 function Footer() {
   return (
-    <div className="footer-container">
+    <div className='footer-container'>
       <h6>
-        Check out{" "}
-        <a href="https://www.github.com/kbiz65" target="_blank">
-          other apps
-        </a>{" "}
-        by Kevin!
+        Check out <a href='https://www.github.com/kbiz65'>other apps</a> by
+        Kevin!
       </h6>
     </div>
   );
